@@ -14,6 +14,8 @@ public class FactorialTest {
         }
         for (int i=1;i<= number;i++){
             fact*= i;
+            fact*= i;
+
         }
         System.out.println("Factorial of "+number+"is"+fact);
 

@@ -1,7 +1,8 @@
-package com.sapilent.Training;
+package com.sapilent.TrainingAssignment;
 
-import java.util.*;
-import java.io.*;
+
+import java.util.Scanner;
+
 public class Problem3 {
         public static void main(String []argh){
             Scanner in = new Scanner(System.in);

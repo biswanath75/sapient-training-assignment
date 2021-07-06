@@ -1,10 +1,11 @@
 package com.sapilent.TrainingAssignment;
 
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+//import java.io.;
+//import java.text.*;
+//import java.math.*;
+import java.util.ArrayList;
+import java.util.Scanner;
+//import java.util.regex.*;
 
     public class Problem4 {
 

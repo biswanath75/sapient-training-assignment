@@ -1,4 +1,4 @@
-package com.sapilent.Training;
+package com.sapilent.TrainingAssignment;
 
 import java.util.*;
 
